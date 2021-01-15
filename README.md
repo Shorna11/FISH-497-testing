@@ -9,3 +9,5 @@ Two asterisks or underscore make words bold.
 
 ### Push/pull
 we will modify this file, commit it, and then pull it down to the local computer via a pull
+
+added Rproj file
